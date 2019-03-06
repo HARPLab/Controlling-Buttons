@@ -1,9 +1,9 @@
-#Ros Controlling Buttons
+# Ros Controlling Buttons
 
-##Setup:
+## Setup:
 Ensure ROS and computer is configured properly by following this tutorial: http://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup
 
-##How to run: 
+## How to run: 
 
 1.) Plug arduino into computer 
 
